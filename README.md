@@ -69,6 +69,8 @@ _The automated pipeline for text extraction, summarization, and audio conversion
 ## 🏆 Results
 
 The system effectively generates audio summaries from IEEE research papers, enhancing academic content accessibility. It allows users to consume complex research on-the-go, whether for study, research, or leisure.
+![Results](https://github.com/user-attachments/assets/b5428672-7c18-4fd3-89ec-1eb4a2c100f0)
+
 
 ---
 

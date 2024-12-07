@@ -78,7 +78,7 @@ The system effectively generates audio summaries from IEEE research papers, enha
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/research-echo.git
+   git clone https://github.com/deepan484/Reasearch_Echopedia.git
    ```
    
 2. Install dependencies:

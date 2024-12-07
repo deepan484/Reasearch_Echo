@@ -1,4 +1,4 @@
-# Research Echo 🎤📚
+![image](https://github.com/user-attachments/assets/900b18a9-6aeb-4942-b780-546e29142e63)# Research Echo 🎤📚
 
 **Transforming IEEE-format Research Papers into Concise, Portable Audio Summaries**
 
@@ -60,7 +60,8 @@ The preprocessed text is fed into **AWS Bedrock’s LLaMA model** to generate cl
 
 ## 🖼️ Workflow
 
-![Workflow](https://via.placeholder.com/600x300.png?text=Workflow+Image)  
+![WorkFlow](https://github.com/user-attachments/assets/99cdd3c5-95a7-4c4c-b1df-e3f738e09902)
+
 _The automated pipeline for text extraction, summarization, and audio conversion._
 
 ---

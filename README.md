@@ -1,4 +1,4 @@
-# Research Echo 🎤📚
+# Research Echopedia 🎤📚
 
 **Transforming IEEE-format Research Papers into Concise, Portable Audio Summaries**
 
@@ -6,7 +6,7 @@
 
 ## 📖 Overview
 
-The **Research Echo** project enhances the accessibility of IEEE-format research papers by converting their dense technical content into concise, portable audio summaries. This system uses a three-stage pipeline:  
+The **Research Echopedia** project enhances the accessibility of IEEE-format research papers by converting their dense technical content into concise, portable audio summaries. This system uses a three-stage pipeline:  
 1. **Text Extraction** with **pdfplumber**
 2. **Summarization** with **AWS Bedrock's LLaMA model**
 3. **Audio Conversion** using **Amazon Polly**

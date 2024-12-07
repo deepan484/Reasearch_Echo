@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/900b18a9-6aeb-4942-b780-546e29142e63)# Research Echo 🎤📚
+# Research Echo 🎤📚
 
 **Transforming IEEE-format Research Papers into Concise, Portable Audio Summaries**
 
